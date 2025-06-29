@@ -10,14 +10,14 @@
 ## 🧑‍💻 About Me
 
 ```txt
-Full Name 👋🏻 : Anvarov Abdurahmon
-Preferred    : Abdurahmon
-Age          : 19
-Location 🌍  : Asaka, Andijan, Uzbekistan 
-Current Role 👨🏻‍💻 : Flutter Developer @ Maxdev Ltd.
-Education 🧑🏻‍🎓  : First-Year @ Andijan State Institute
-Background   : Self-taught & Learning-by-building
-Languages 🌐   : Python • JavaScript • Dart
+Full Name 👋🏻     : Anvarov Abdurahmon
+Preferred 👍🏻     : Abdurahmon
+Age   🔢         : 19
+Location 🌍      : Asaka, Andijan, Uzbekistan 
+Current Role 👨🏻‍💻  : Flutter Developer @ Maxdev Ltd.
+Education 🧑🏻‍🎓     : First-Year @ Andijan State Institute
+Background  🔙   : Self-taught & Learning-by-building
+Languages 🌐     : Python • JavaScript • Dart
 ```
 
 ---
@@ -93,6 +93,3 @@ If you’re working on:
 ---
 
 <p align="center"><b>Thanks for stopping by! 🎯</b></p>
-```
-
----
